@@ -1,5 +1,5 @@
-name,album,release_date,track_number,id,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,duration_ms
-Tied Together with a Smile,Taylor Swift,24/10/2006,7,2zzxwmoOBnXDT0KnJsoIWk,spotify:track:2zzxwmoOBnXDT0KnJsoIWk,0.525,0.479,0.578,0,0.0841,-4.963,0.0294,146.165,0.192,53,248106
+name,album,release_date,track_number,id,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,positivity,popularity,duration_ms
+Tied Together with a Smile,Taylor Swift,24/10/2006,7,2zzxwmoOBnXDT0KnJsoIWk,spotify:track:2zzxwmoOBnXDT0KnJsoIWk,N/A,0.479,0.578,0,0.0841,-4.963,0.0294,146.165,0.192,53,248106
 Invisible,Taylor Swift,24/10/2006,13,1k3PzDNjg38cWqOvL4M9vq,spotify:track:1k3PzDNjg38cWqOvL4M9vq,0.637,0.612,0.394,0,0.147,-5.723,0.0243,96.001,0.233,53,203226
 Cold As You,Taylor Swift,24/10/2006,5,569sXXQ7t0jSdqHooi2yqs,spotify:track:569sXXQ7t0jSdqHooi2yqs,0.217,0.418,0.482,0,0.123,-5.769,0.0266,175.558,0.261,55,239013
 A Perfectly Good Heart,Taylor Swift,24/10/2006,14,0YgHuReCSPwTXYny7isLja,spotify:track:0YgHuReCSPwTXYny7isLja,0.00349,0.483,0.751,0,0.128,-5.726,0.0365,156.092,0.268,52,220146
@@ -74,7 +74,7 @@ Begin Again (Taylor's Version),Red (Taylor's Version),22/10/2012,16,05GsNucq8Bng
 Treacherous (Taylor's Version),Red (Taylor's Version),22/10/2012,3,3S7HNKPakdwNEBFIVTL6dZ,spotify:track:3S7HNKPakdwNEBFIVTL6dZ,0.0344,0.645,0.593,0.000127,0.13,-6.506,0.0288,109.984,0.299,65,242720
 State Of Grace (Taylor's Version),Red (Taylor's Version),22/10/2012,1,6lzc0Al0zfZOIFsFvBS1ki,spotify:track:6lzc0Al0zfZOIFsFvBS1ki,0.000328,0.594,0.713,0,0.114,-5.314,0.0503,129.958,0.328,65,295413
 Ronan (Taylor's Version),Red (Taylor's Version),22/10/2012,21,7nWui6jiMM2m9qFmET1Mtj,spotify:track:7nWui6jiMM2m9qFmET1Mtj,0.661,0.623,0.279,0,0.193,-10.802,0.031,116.04,0.38,58,264253
-Come Back...Be Here (Taylor's Version),Red (Taylor's Version),22/10/2012,18,4pNApnaUWAL2J4KO2eqokq,spotify:track:4pNApnaUWAL2J4KO2eqokq,0.0158,0.46,0.632,0,0.0822,-6.031,0.0302,79.846,0.399,66,223333
+Come Back...Be Here (Taylor's Version),Red (Taylor's Version),22/10/2012,18,4pNApnaUWAL2J4KO2eqokq,spotify:track:4pNApnaUWAL2J4KO2eqokq,0.0158,0.46,N/A,0,0.0822,-6.031,0.0302,79.846,0.399,66,223333
 Red (Taylor's Version),Red (Taylor's Version),22/10/2012,2,4OAuvHryIVv4kMDNSLuPt6,spotify:track:4OAuvHryIVv4kMDNSLuPt6,0.00108,0.516,0.777,1.62E-06,0.0761,-4.908,0.0375,125.047,0.408,74,223093
 Forever Winter (Taylor's Version) (From The Vault),Red (Taylor's Version),22/10/2012,27,3oGVx9RBmiYGv5ZCecWLkx,spotify:track:3oGVx9RBmiYGv5ZCecWLkx,0.256,0.611,0.552,0,0.134,-5.828,0.031,116.012,0.41,63,263533
 Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),Red (Taylor's Version),22/10/2012,28,4IQkfUsrwXol38VV3U7t7T,spotify:track:4IQkfUsrwXol38VV3U7t7T,0.817,0.61,0.488,0,0.312,-6.918,0.0293,125.039,0.443,64,240226
